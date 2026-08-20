@@ -1,16 +1,3 @@
-### Fix it
-
-In your `Mechanical-Materials-EDA.md` file:
-
-1. Tap **Edit ✏️**.
-2. **Delete the three backticks** at the beginning and end:
-   - Delete ` ```markdown `
-   - Delete the final ` ``` `
-3. Leave the Markdown itself.
-
-It should start directly like this:
-
-```markdown
 # 🔧 Mechanical Materials EDA — Project Results
 
 ## Project Overview
@@ -34,3 +21,11 @@ Analysis of 1,552 engineering-material records using Python, Pandas, NumPy, and 
 ### 4. Tensile Strength by Standard
 
 ![Tensile Strength by Standard](images/mechanical-materials-tensile-strength-by-standard.png)
+
+## ⚙️ Engineering Relevance
+
+This project demonstrates how engineering material data can be cleaned, analyzed, and visualized to support material comparison and data-informed material-selection decisions.
+
+## 🛠️ Tools Used
+
+Python • Pandas • NumPy • Matplotlib
