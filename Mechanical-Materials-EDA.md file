@@ -1,3 +1,16 @@
+### Fix it
+
+In your `Mechanical-Materials-EDA.md` file:
+
+1. Tap **Edit ✏️**.
+2. **Delete the three backticks** at the beginning and end:
+   - Delete ` ```markdown `
+   - Delete the final ` ``` `
+3. Leave the Markdown itself.
+
+It should start directly like this:
+
+```markdown
 # 🔧 Mechanical Materials EDA — Project Results
 
 ## Project Overview
