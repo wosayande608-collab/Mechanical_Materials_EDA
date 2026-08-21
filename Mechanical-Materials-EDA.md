@@ -8,19 +8,18 @@ Analysis of 1,552 engineering-material records using Python, Pandas, NumPy, and 
 
 ### 1. Tensile Strength Distribution
 
-![Tensile Strength Distribution](./images/mechanical-materials-tensile-strength.png)
+![Tensile Strength Distribution](./images/mechanical-materials-tensile-strength.jpg)
 
 ### 2. Top 10 Strongest Materials
 
-![Top 10 Strongest Materials](./images/mechanical-materials-top-10-strength.png)
+![Top 10 Strongest Materials](./images/mechanical-materials-top-10-strength.jpg)
 
 ### 3. Su vs Sy Scatter Plot
 
-![Su vs Sy Scatter Plot](./images/mechanical-materials-su-vs-sy.png)
+![Su vs Sy Scatter Plot](./images/mechanical-materials-su-vs-sy.jpg)
 
 ### 4. Tensile Strength by Standard
-
-![Tensile Strength by Standard](./images/mechanical-materials-tensile-strength-by-standard.png)
+![Tensile Strength by Standard](./images/mechanical-materials-tensile-strength-by-standard.jpg)
 
 ## ⚙️ Engineering Relevance
 
