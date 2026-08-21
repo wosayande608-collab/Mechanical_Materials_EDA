@@ -2,6 +2,6 @@
 
 [**View Project Images →**](Mechanical-Materials-EDA.md)
 
-### 💻 Project Code
+## 💻 Project Code
 
-[**View Full Project Code →**](https://github.com/wosayande608-collab/Mechanical_Materials_EDA)
+[View Full Project Code →](./Mechanical_Materials_EDA.ipynb)
